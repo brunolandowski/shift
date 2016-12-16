@@ -1,5 +1,4 @@
-# Nexus
-Nexus draw lines between elements by using HTML5 Canvas.
+# Shift
 
 [Download](https://raw.githubusercontent.com/brunolandowski/nexus/master/nexus.js)
 
