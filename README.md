@@ -39,7 +39,7 @@ Make sure to call `shift.js` after the content just before `</body>`.
 $('section').shift();
 ```
 ## Hide the scrollbar (this only works on Chrome and Safari)
-Hide the scrollbar by using the following code.
+Hide the scrollbar by using the following code (this only works with Chrome for the moment).
 ```CSS
 ::-webkit-scrollbar { 
     display: none; 
