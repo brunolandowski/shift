@@ -1,5 +1,5 @@
 # Shift
-Shift in a scroll system based on columns. It allows to scroll columns with differents speed aiming to scroll all the elements in the same way.
+Shift in a scroll system based on columns. It allows to scroll in columns with differents speed.
 
 [Download](https://raw.githubusercontent.com/brunolandowski/nexus/master/nexus.js)
 
@@ -38,11 +38,11 @@ Make sure to call `shift.js` after the content just before `</body>`.
 ```JavaScript
 $('section').shift();
 ```
-## Hide the scrollbar (this only works on Chrome and Safari)
+## Hide the scrollbar
 Hide the scrollbar by using the following code (this only works with Chrome for the moment).
 ```CSS
 ::-webkit-scrollbar { 
     display: none; 
 }
 ```
-:palm_tree::palm_tree::palm_tree: That's it&#8239;!
+:cyclone::cyclone::cyclone: That's it&#8239;!
