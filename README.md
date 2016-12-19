@@ -1,5 +1,5 @@
 # Shift
-Shift in a scroll system based on columns. It allows to scroll in columns with differents speed.
+Shift in a scroll system based on columns. It allows to scroll in columns with differents speed. This script use `jquery.mouseweel.js`.
 
 [Download](https://raw.githubusercontent.com/brunolandowski/nexus/master/nexus.js)
 
@@ -29,8 +29,9 @@ section:nth-of-type(2) {
    margin-left:50%;
 }
 ```
-Make sure to call `shift.js` after the content just before `</body>`.
+Call `jquery.mouseweel.min.js`, and then make sure to call `shift.js` after the content just before `</body>`.
 ```HTML
+<script type="text/javascript" src="jquery.mouseweel.min.js"></script>
 <script type="text/javascript" src="shift.js"></script>
 ```
 
