@@ -1,4 +1,5 @@
 # Shift
+Shift is a layout principle.
 
 [Download](https://raw.githubusercontent.com/brunolandowski/nexus/master/nexus.js)
 
