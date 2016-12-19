@@ -1,3 +1,7 @@
+/*!
+ * Shift 1.0.0
+ * https://github.com/brunolandowski/shift
+ */
 (function($) {
         $.fn.shift = function(params) {
         
@@ -37,3 +41,7 @@
         return this;
         };
 })(jQuery);
+
+console.log("%cNexus plugin made by Bruno Landowski", "background: #333; color: #bdbd0a; padding: 5px 10px;");
+console.log("%chttp://brunolandowski.fr", "color:#333");
+console.log("%chttps://github.com/brunolandowski", "color:#333");
